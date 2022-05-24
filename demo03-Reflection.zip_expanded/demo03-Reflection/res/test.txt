@@ -1,0 +1,3 @@
+Salary:217546:Samuel Ludlow III:2345 The Rich Man Way, RichVille, RC:(567) 324-9812:768956453:February 29, 1942:Collections Section:20500
+Wage:54153:BobBob Never:22 NeverReally Lane, NotQuite, There: (234) 674-7865:98765678:September 3, 1988:Psych Ward:30.60:48
+PartTime:9111111:Really Depressed:33 Has No Life Drive, Depressedville:(123) 456-7890:75474537:May 3, 1966:Pharmacy:33.95:28

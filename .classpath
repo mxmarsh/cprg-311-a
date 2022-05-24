@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="comparableVsComparator/demo02-SortingAlgorithms/src/" kind="src" path="demo02-SortingAlgorithms.zip_expanded/demo02-SortingAlgorithms/src"/>
+	<classpathentry kind="src" path="demo02-SortingAlgorithms.zip_expanded/demo02-SortingAlgorithms/src/comparableVsComparator/demo02-SortingAlgorithms/src"/>
+	<classpathentry kind="src" path="demo03-Reflection.zip_expanded/demo03-Reflection/lib"/>
+	<classpathentry kind="src" path="demo03-Reflection.zip_expanded/demo03-Reflection/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="demo02-SortingAlgorithms.zip_expanded/demo02-SortingAlgorithms/bin"/>
+</classpath>
