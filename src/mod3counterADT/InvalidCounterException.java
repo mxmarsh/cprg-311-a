@@ -1,11 +1,4 @@
-package counterADTdemo;
-
-/**
- * Class description: A counter has been provided an invalid value.
- *
- * @author Dana Marsh (dana.marsh@sait.ca)
- *
- */
+package mod3counterADT;
 
 public class InvalidCounterException extends Exception {
 

@@ -1,4 +1,4 @@
-package counterADTdemo;
+package mod3counterADT;
 
 /**
  * Class description: This interface represents the public contract for the
